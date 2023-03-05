@@ -12,8 +12,8 @@ layout: default
 ## Organizing Committee
 
 ## Sponsors
-![yanqi](./pic/yanqi)
-![ymsc](./pic/ymsc)
+![yanqi](./pic/yanqi.jpg)
+![ymsc](./pic/ymsc.jpg)
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
