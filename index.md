@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![tour](./pic/tour.jpg)
 
 ## General Information
 
