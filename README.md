@@ -1,4 +1,4 @@
-# The Cayman theme
+# The First Symposium of Geometry and Statistics, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
