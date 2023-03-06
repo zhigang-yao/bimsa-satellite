@@ -11,7 +11,7 @@ layout: default
 
  <p style="text-align:justify; text-justify:inter-ideograph;">
 The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)</a>, sponsored by BIMSA and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during July 23 - 25, 2023.
-This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17-25, 2023.
+This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17 - 25, 2023.
  </p>
 
 ## Registration
@@ -45,7 +45,7 @@ More to add
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="./pic/ymsc_small.png" alt="ymsc"></td>
+<td><img src="./pic/YMSC_small.png" alt="ymsc"></td>
 </tr>
 </table>
 
