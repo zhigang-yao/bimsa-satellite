@@ -19,12 +19,12 @@ layout: default
 ![yanqi](./pic/yanqi.png)
 ![ymsc](./pic/YSMC.png)
 
-<table>
+<!-- <table>
 <tr>
 <td><img src="./pic/yanqi.png"></td>
 <td><img src="./pic/YSMC.png"></td>
 </tr>
-</table>
+</table> -->
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
