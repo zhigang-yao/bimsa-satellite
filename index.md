@@ -37,6 +37,9 @@ More to add
 ## Scientific Advisors: 
 * Shiu-Yuen Cheng (Tsinghua)
 * Shing-Tung Yau (Tsinghua)
+  
+## Contact Information
+Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
