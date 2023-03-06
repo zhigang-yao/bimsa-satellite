@@ -33,7 +33,7 @@ More to add
 ## Organizing Committee
 * Rongling Wu (BIMSA)
 * Lijian Yang (Tsinghua)
-* Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
+* [Zhigang Yao (NUS/Harvard CMSA and Committee Chair)](https://zhigang-yao.github.io/)
 
 ## Scientific Advisors: 
 * Shiu-Yuen Cheng (Tsinghua)
