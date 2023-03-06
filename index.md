@@ -33,12 +33,12 @@ Shing-Tung Yau (Tsinghua)
 
 ## Sponsors
 ![yanqi](./pic/yanqi_small.png)
-![ymsc](https://github.com/sujiaji/cayman_test/blob/master/pic/YMSC_small.png)
+![ymsc](./pic/yanqi_small.png)
 
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="https://github.com/sujiaji/cayman_test/blob/master/pic/YMSC_small.png" alt="ymsc"></td>
+<td><img src="./pic/yanqi_small.png" alt="ymsc"></td>
 </tr>
 </table>
 
