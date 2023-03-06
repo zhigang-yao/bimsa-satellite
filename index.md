@@ -6,10 +6,10 @@ layout: default
 ## General Information
 The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent Harvard conference on geometry and statistics. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to apply.
 
-The conference will take place at the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA), sponsored by BIMSA and the Yau Center at Tsinghua University, during July 23 - 25, 2023.
-This conferenc is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17-25, 2023.
+The conference will take place at the [Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)](https://www.bimsa.cn/), sponsored by BIMSA and the [Yau Mathematical Sciences Center at Tsinghua University](https://ymsc.tsinghua.edu.cn/en/), during July 23 - 25, 2023.
+This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17-25, 2023.
 ## Registration
-Register here to attend in-person.
+Register [here]() to attend in-person.
 ## Invited speakers 
 * Yang-Hui He (City U of London)
 * Stephan Huckemann (G\"{o}ttingen)
@@ -28,8 +28,8 @@ More to add
 * Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
 
 ## Scientific Advisors: 
-Shiu-Yuen Cheng (Tsinghua)
-Shing-Tung Yau (Tsinghua)
+* Shiu-Yuen Cheng (Tsinghua)
+* Shing-Tung Yau (Tsinghua)
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
@@ -38,7 +38,7 @@ Shing-Tung Yau (Tsinghua)
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="./pic/ymsc_1.png" alt="ymsc"></td>
+<td><img src="./pic/ymsc_1.jpg" alt="ymsc"></td>
 </tr>
 </table>
 
