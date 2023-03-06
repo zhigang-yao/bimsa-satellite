@@ -11,29 +11,29 @@ This conferenc is a satellite conference of the International Congress of Basic 
 ## Registration
 Register here to attend in-person.
 ## Invited speakers 
-* Yang-Hui He (City U of London)\\
-* Stephan Huckemann‬‬‬ (Göttingen)\\
-* Yingdai Kim (Seoul National U)\\
-* Ezra Miller (Duke)\\
-* Zhigang Yao (NUS/CMSA Harvard)\\
-* Chumming Zhang (UW Madison)\\
-* Jian Zhang (Kent)\\
+* Yang-Hui He (City U of London)
+* Stephan Huckemann (G\"{o}ttingen)
+* Yingdai Kim (Seoul National U)
+* Ezra Miller (Duke)
+* Zhigang Yao (NUS/CMSA Harvard)
+* Chumming Zhang (UW Madison)
+* Jian Zhang (Kent)
 More to add
 
 ## Schedule
 
 ## Organizing Committee
-* Rongling Wu (BIMSA)\\
-* Lijian Yang (Tsinghua)\\
+* Rongling Wu (BIMSA)
+* Lijian Yang (Tsinghua)
 * Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
 
 ## Scientific Advisors: 
-Shiu-Yuen Cheng (Tsinghua)\\
+Shiu-Yuen Cheng (Tsinghua)
 Shing-Tung Yau (Tsinghua)
 
 ## Sponsors
-![yanqi](./pic/yanqi_small.png)
 ![ymsc](https://github.com/sujiaji/cayman_test/blob/master/pic/YMSC_small.png)
+![yanqi](./pic/yanqi_small.png)
 
 <table>
 <tr>
