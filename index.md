@@ -5,12 +5,12 @@ layout: default
 
 ## General Information
  <p style="text-align:justify; text-justify:inter-ideograph;">
- The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent [Harvard conference on geometry and statistics](https://cmsa.fas.harvard.edu/event/geometry-and-statistics/). Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to apply.
+ The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent <a href="https://cmsa.fas.harvard.edu/event/geometry-and-statistics/">Harvard conference on geometry and statistics</a>. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to apply.
  </p>
 
 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-The conference will take place at the [Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)](https://www.bimsa.cn/), sponsored by BIMSA and the [Yau Mathematical Sciences Center at Tsinghua University](https://ymsc.tsinghua.edu.cn/en/), during July 23 - 25, 2023.
+The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)</a>, sponsored by BIMSA and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during July 23 - 25, 2023.
 This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17-25, 2023.
  </p>
 
@@ -18,7 +18,7 @@ This conference is a satellite conference of the International Congress of Basic
 Register [here]() to attend in-person.
 ## Invited speakers 
 * Yang-Hui He (City U of London)
-* Stephan Huckemann (G&uottingen)
+* Stephan Huckemann (Göttingen)
 * Yongdai Kim (Seoul National U)
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
