@@ -17,6 +17,7 @@ This conference is a satellite conference of the International Congress of Basic
 ## Registration
 Register [here]() to attend in-person.
 ## Invited speakers 
+* Ke Deng (Tsinghua)
 * Yang-Hui He (City U of London)
 * Stephan Huckemann (Göttingen)
 * Yongdai Kim (Seoul National U)
