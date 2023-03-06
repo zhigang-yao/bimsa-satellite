@@ -8,12 +8,23 @@ layout: default
 ## Application
 
 ## Invited speakers and panelists
+*   Item foo
+*   Item bar
 
 ## Organizing Committee
+*   Item foo
+*   Item bar
 
 ## Sponsors
-![yanqi](./pic/yanqi.jpg)
-![ymsc](./pic/ymsc.jpg)
+![yanqi](./pic/yanqi.png)
+![ymsc](./pic/YSMC.png)
+
+<table>
+<tr>
+<td><img src="./pic/yanqi.png"></td>
+<td><img src="./pic/YSMC.png"></td>
+</tr>
+</table>
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
