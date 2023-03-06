@@ -4,20 +4,34 @@ layout: default
 ![tour](./pic/tour.jpg)
 
 ## General Information
+The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent Harvard conference on geometry and statistics. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to apply.
 
-## Application
-
-## Invited speakers and panelists
-*   Item foo
-*   Item bar
-
+The conference will take place at the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA), sponsored by BIMSA and the Yau Center at Tsinghua University, during July 23 - 25, 2023.
+This conferenc is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17-25, 2023.
+## Registration
+Register here to attend in-person.
+## Invited speakers 
+* Yang-Hui He (City U of London)\\
+* Stephan Huckemann‬‬‬ (Göttingen)\\
+* Yingdai Kim (Seoul National U)\\
+* Ezra Miller (Duke)\\
+* Zhigang Yao (NUS/CMSA Harvard)\\
+* Chumming Zhang (UW Madison)\\
+* Jian Zhang (Kent)\\
+More to add
+## Schedule
 ## Organizing Committee
-*   Item foo
-*   Item bar
+* Rongling Wu (BIMSA)\\
+* Lijian Yang (Tsinghua)\\
+* Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
+
+## Scientific Advisors: 
+Shiu-Yuen Cheng (Tsinghua)\\
+Shing-Tung Yau (Tsinghua)
 
 ## Sponsors
 ![yanqi](./pic/yanqi_small.png)
-![ymsc](./pic/YSMC_small.png)
+![ymsc](./pic/ymsc_1.jpg)
 
 <table>
 <tr>
