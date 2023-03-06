@@ -38,7 +38,7 @@ More to add
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="./pic/ymsc_2.jpg" alt="ymsc"></td>
+<td><img src="./pic/ymsc_small.png" alt="ymsc"></td>
 </tr>
 </table>
 
