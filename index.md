@@ -16,13 +16,13 @@ layout: default
 *   Item bar
 
 ## Sponsors
-![yanqi](./pic/yanqi.png)
-![ymsc](./pic/YSMC.jpg)
+![yanqi](./pic/yanqi_small.png)
+![ymsc](./pic/YSMC_small.png)
 
 <table>
 <tr>
-<td><img src="./pic/yanqi.png"></td>
-<td><img src="./pic/yanqi.png"></td>
+<td><img src="./pic/yanqi_small.png"></td>
+<td><img src="./pic/YSMC_small.png"></td>
 </tr>
 </table>
 
