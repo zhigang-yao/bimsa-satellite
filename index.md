@@ -25,10 +25,7 @@ Register [here](https://docs.google.com/forms/d/1Zs7-jtBnOiHnbTDHv3AobBUcjC8UkuR
 * Zhigang Yao (NUS/CMSA Harvard)
 * Chumming Zhang (UW Madison)
 * Jian Zhang (Kent)
-  
-More to add
-
-## Schedule
+* More to add
 
 ## Organizing Committee
 * Rongling Wu (BIMSA)
@@ -41,6 +38,8 @@ More to add
   
 ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
+
+## Schedule
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
