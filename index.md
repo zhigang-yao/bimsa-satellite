@@ -19,7 +19,7 @@ Register [here]() to attend in-person.
 ## Invited speakers 
 * Ke Deng (Tsinghua)
 * Yang-Hui He (City U of London)
-* Stephan Huckemann (Göttingen)
+* Stephan Huckemann (Georg-August-Universität Göttingen)
 * Yongdai Kim (Seoul National U)
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
