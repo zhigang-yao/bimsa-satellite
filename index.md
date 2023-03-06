@@ -17,14 +17,14 @@ layout: default
 
 ## Sponsors
 ![yanqi](./pic/yanqi.png)
-![ymsc](./pic/YSMC.png)
+![ymsc](./pic/YSMC.jpg)
 
-<!-- <table>
+<table>
 <tr>
 <td><img src="./pic/yanqi.png"></td>
-<td><img src="./pic/YSMC.png"></td>
+<td><img src="./pic/YSMC.jpg"></td>
 </tr>
-</table> -->
+</table>
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
