@@ -38,7 +38,7 @@ Shing-Tung Yau (Tsinghua)
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="./pic/ymsc_small.png" alt="ymsc"></td>
+<td><img src="./pic/ymsc_1.png" alt="ymsc"></td>
 </tr>
 </table>
 
