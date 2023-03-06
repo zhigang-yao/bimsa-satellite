@@ -22,7 +22,7 @@ layout: default
 <table>
 <tr>
 <td><img src="./pic/yanqi.png"></td>
-<td><img src="./pic/YSMC.jpg"></td>
+<td><img src="./pic/yanqi.png"></td>
 </tr>
 </table>
 
