@@ -19,7 +19,9 @@ Register here to attend in-person.
 * Chumming Zhang (UW Madison)\\
 * Jian Zhang (Kent)\\
 More to add
+
 ## Schedule
+
 ## Organizing Committee
 * Rongling Wu (BIMSA)\\
 * Lijian Yang (Tsinghua)\\
@@ -36,7 +38,7 @@ Shing-Tung Yau (Tsinghua)
 <table>
 <tr>
 <td><img src="./pic/yanqi_small.png"></td>
-<td><img src="./pic/YSMC_small.png"></td>
+<td><img src="./pic/ymsc_1.jpg"></td>
 </tr>
 </table>
 
