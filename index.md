@@ -10,8 +10,8 @@ layout: default
 
 
  <p style="text-align:justify;">
-The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)</a>, sponsored by BIMSA and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during July 23 - 25, 2023.
-This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17 - 25, 2023.
+The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)</a>, sponsored by BIMSA and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during July (TBA), 2023.
+This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 16 - 28, 2023.
  </p>
 
 ## Registration
@@ -23,8 +23,8 @@ Register [here](https://docs.google.com/forms/d/1Zs7-jtBnOiHnbTDHv3AobBUcjC8UkuR
 * Yongdai Kim (Seoul National U)
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
+* Stephen Yau (Tsinghua)
 * Chumming Zhang (UW Madison)
-* Jian Zhang (Kent)
 * More to add
 
 ## Organizing Committee
