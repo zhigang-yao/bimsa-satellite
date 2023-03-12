@@ -24,7 +24,7 @@ Register [here](https://docs.google.com/forms/d/1Zs7-jtBnOiHnbTDHv3AobBUcjC8UkuR
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
 * Stephen Shing-Toung Yau (Tsinghua)
-* Chumming Zhang (UW Madison)
+* Chunming Zhang (UW Madison)
 * More to add
 
 ## Organizing Committee
