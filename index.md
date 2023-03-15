@@ -15,7 +15,7 @@ This conference is a satellite conference of the International Congress of Basic
  </p>
 
 ## Registration
-Register [here](https://docs.google.com/forms/d/1Zs7-jtBnOiHnbTDHv3AobBUcjC8UkuRo-BKphPBis0M/edit) to attend in-person.
+Register [here] to attend in-person.
 ## Invited speakers 
 * Ke Deng (Tsinghua)
 * Yang-Hui He (City U of London)
