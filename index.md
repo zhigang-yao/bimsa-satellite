@@ -5,7 +5,7 @@ layout: default
 
 ## General Information
  <p style="text-align:justify;">
- The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent <a href="https://cmsa.fas.harvard.edu/event/geometry-and-statistics/">Harvard conference on geometry and statistics</a>. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to apply.
+ The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the recent <a href="https://cmsa.fas.harvard.edu/event/geometry-and-statistics/">Harvard conference on geometry and statistics</a>. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2023 in the relevant field is eligible to attend, though participation is by invitation only. Participants from under-represented groups are especially encouraged to attend.
  </p>
 
 
