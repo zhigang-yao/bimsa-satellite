@@ -21,6 +21,7 @@ Register [here] to attend in-person.
 * Yang-Hui He (City U of London)
 * Stephan Huckemann (Georg-August-Universität Göttingen)
 * Yongdai Kim (Seoul National U)
+* Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
 * Stephen Shing-Toung Yau (Tsinghua)
