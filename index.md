@@ -24,7 +24,7 @@ Register [here] to attend in-person.
 * Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
 * Zhigang Yao (NUS/CMSA Harvard)
-* Stephen Shing-Toung Yau (Tsinghua)
+* Stephen Yau (Tsinghua)
 * Chunming Zhang (UW Madison)
 * More to add
 
