@@ -27,6 +27,7 @@ Register [here] to attend in-person.
 * Zaiwen Wen (Peking U)
 * Zhigang Yao (NUS/CMSA Harvard)
 * Stephen Yau (Tsinghua)
+* Ke Ye (UCAS)
 * Chunming Zhang (UW Madison)
 * More to add
 
