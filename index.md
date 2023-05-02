@@ -18,7 +18,7 @@ This conference is a satellite conference of the International Congress of Basic
 Register [here] to attend in-person.
 ## Invited speakers 
 * Ke Deng (Tsinghua)
-* Yang-Hui He (City U of London)
+* Yang-Hui He (London Institute for Mathematical Sciences)
 * Stephan Huckemann (Georg-August-Universität Göttingen)
 * Yongdai Kim (Seoul National U)
 * Xiangdong Li (UCAS)
