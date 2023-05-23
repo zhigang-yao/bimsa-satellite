@@ -25,6 +25,7 @@ Register [here] to attend in-person.
 * Xiangdong Li (UCAS)
 * Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
+* Stefan Sommer (U of Copenhagen)
 * Zaiwen Wen (Peking U)
 * Weng Kee Wong (UCLA)
 * Zhigang Yao (NUS/CMSA Harvard)
