@@ -146,75 +146,151 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="562">Morning Session Chair: </td>
+<td colspan="2" width="572">Morning Session Chair: </td>
 </tr>
 <tr>
-<td width="158">9:00–10:00 am</td>
-<td width="172">TBA</td>
+<td width="148">9:00-10:00 am</td>
+<td width="181">TBA</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
-<td width="158">10:00–10:10 am</td>
-<td colspan="2" width="562">Break</td>
+<td width="148">10:00-10:10 am</td>
+<td colspan="2" width="572">Break</td>
 </tr>
 <tr>
-<td width="158">10:10–11:10 am</td>
-<td width="172">TBA</td>
-<td width="391"><strong>Title:</strong> TBA </p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="148">10:10-11:10 am</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong>TBA</a></td>
 </tr>
 <tr>
-<td width="158">11:10–11:20 am</td>
-<td colspan="2" width="562">Break</td>
+<td width="148">11:10-11:20 am</td>
+<td colspan="2" width="572">Break</td>
 </tr>
 <tr>
-<td width="158">11:20 am–12:20 pm</td>
-<td width="172">TBA</td>
+<td width="148">11:20 am-12:20 pm</td>
+<td width="181">TBA</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
-<td width="158"> 12:20–1:50 pm</td>
-<td colspan="2" width="562">12:20 pm Group Photo</p>
-<p>followed by Lunch</td>
+<td width="148"></td>
+<td colspan="2" width="572"></td>
 </tr>
 <tr>
-<td width="158"></td>
-<td colspan="2" width="562">Afternoon Session Chair: </td>
+<td width="148">12:20–1:50 pm</td>
+<td colspan="2" width="572">Lunch</td>
 </tr>
 <tr>
-<td width="158">1:50–2:50 pm</td>
-<td width="172">TBA</td>
+<td width="148"></td>
+<td colspan="2" width="572">Afternoon Session Chair: Stephan Huckemann</td>
+</tr>
+<tr>
+<td width="148">1:50-2:50 pm</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="148">2:50-3:00 pm</td>
+<td colspan="2" width="572">Break</td>
+</tr>
+<tr>
+<td width="148">3:00-4:00 pm</td>
+<td width="181">TBA</td>
 <td width="391"><strong>Title: </strong>TBA</p>
-<p><strong>Abstract: </strong>TBA.</td>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
-<td width="158">2:50–3:00 pm</td>
-<td colspan="2" width="562">Break</td>
+<td width="148">4:00-4:10 pm</td>
+<td colspan="2" width="572">Break</td>
 </tr>
 <tr>
-<td width="158">3:00-4:00 pm</td>
-<td width="172">TBA</td>
-<td width="391"><strong>Title:</strong> TBA</td>
-<p><strong>Abstract: </strong>TBA.</td>
-</tr>
-<tr>
-<td width="158">4:00-4:10 pm</td>
-<td colspan="2" width="562">Break</td>
-</tr>
-<tr>
-<td width="158">4:10-5:10 pm</td>
-<td width="172">TBA</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA.</td>
+<td width="148">4:10-5:10 pm</td>
+<td colspan="2" width="572">Conversation session</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p> 
-
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong>Wednesday, March 1, 2023 (Eastern Time)</strong></p>
+<table width="720">
+<tbody>
+<tr>
+<td width="156">8:30-9:00 am</td>
+<td colspan="2" width="564">Breakfast</td>
+</tr>
+<tr>
+<td width="156"></td>
+<td colspan="2" width="564">Morning Session Chair: </td>
+</tr>
+<tr>
+<td width="156">9:00-10:00 am</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="156">10:00-10:10 am</td>
+<td colspan="2" width="564">Break</td>
+</tr>
+<tr>
+<td width="156">10:10-11:10 am</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong>TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="156">11:10-11:20 am</td>
+<td colspan="2" width="564">Break</td>
+</tr>
+<tr>
+<td width="156">11:20 am-12:20 pm</td>
+<td width="173">TAB</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="156"> 12:20-1:50 pm</td>
+<td colspan="2" width="564">Lunch</td>
+</tr>
+<tr>
+<td width="156"></td>
+<td colspan="2" width="564">Afternoon Session Chair: </td>
+</tr>
+<tr>
+<td width="156">1:50-2:50 pm</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="156">2:50-3:00 pm</td>
+<td colspan="2" width="564">Break</td>
+</tr>
+<tr>
+<td width="156">3:00-4:00 pm</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="156">4:00-4:10 pm</td>
+<td colspan="2" width="564">Break</td>
+</tr>
+<tr>
+<td width="156">4:10-5:10 pm</td>
+<td colspan="2" width="564">Conversation session</td>
+</tr>
+<tr>
+<td width="156">5:10-5:20 pm</td>
+<td width="173">TBA</td>
+<td width="391">Closing Remarks</td>
+</tr>
+</tbody>
+</table>
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
