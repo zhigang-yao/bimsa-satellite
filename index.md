@@ -49,12 +49,13 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 ## Schedule
 
-| head1        |                           |
+| 8:30 am        |   Check-in                        |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 8:45–8:55 am           | Zhigang Yao | Welcome Remarks  |
+|  | Morning Session Chair:   |   |
+| 9:00–10:00 am           |       | Title: 
+Abstract:    |
+| 10:00–10:10 am          | Break  |
 
 
 ## Sponsors
