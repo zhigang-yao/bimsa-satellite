@@ -73,9 +73,9 @@ h4>SCHEDULE</h4>
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
-<td width="172">David Donoho</td>
-<td width="391"><strong>Title:</strong> To be added</p>
-<p><strong>Abstract:</strong> To be added. </td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="158">10:00–10:10 am</td>
@@ -83,9 +83,9 @@ h4>SCHEDULE</h4>
 </tr>
 <tr>
 <td width="158">10:10–11:10 am</td>
-<td width="172">Steve Marron</td>
-<td width="391"><strong>Title:</strong> To be added </p>
-<p><strong>Abstract:</strong> To be added.</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA </p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="158">11:10–11:20 am</td>
