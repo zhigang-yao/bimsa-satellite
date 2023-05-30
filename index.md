@@ -49,7 +49,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 ## Schedule
 
-<p><strong>Monday, July 29, 2023 (Beijing Time)</strong></p>
+<p><strong>Saturday, July 29, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
@@ -136,7 +136,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
+<p><strong>Sunday, July 30, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
