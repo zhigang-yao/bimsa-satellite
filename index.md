@@ -212,7 +212,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p><strong> </strong></p>
 <p><strong> </strong></p>
-<p><strong>Wednesday, March 1, 2023 (Eastern Time)</strong></p>
+<p><strong>Monday, July 31, 2023 (Eastern Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
@@ -221,13 +221,13 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156"></td>
-<td colspan="2" width="564">Morning Session Chair: Ezra Miller</td>
+<td colspan="2" width="564">Morning Session Chair: </td>
 </tr>
 <tr>
 <td width="156">9:00-10:00 am</td>
-<td width="173">Amit Singer*</td>
-<td width="391"><strong>Title:</strong> Heterogeneity analysis in cryo-EM by covariance estimation and manifold learning</p>
-<p><strong>Abstract:</strong> In cryo-EM, the 3-D molecular structure needs to be determined from many noisy 2-D tomographic projection images of randomly oriented and positioned molecules. A key assumption in classical reconstruction procedures for cryo-EM is that the sample consists of identical molecules. However, many molecules of interest exist in more than one conformational state. These structural variations are of great interest to biologists, as they provide insight into the functioning of the molecule. Determining the structural variability from a set of cryo-EM images is known as the heterogeneity problem, widely recognized as one of the most challenging and important computational problem in the field. Due to high level of noise in cryo-EM images, heterogeneity studies typically involve hundreds of thousands of images, sometimes even a few millions. Covariance estimation is one of the earliest methods proposed for heterogeneity analysis in cryo-EM. It relies on computing the covariance of the conformations directly from projection images and extracting the optimal linear subspace of conformations through an eigendecomposition. Unfortunately, the standard formulation is plagued by the exorbitant cost of computing the N^3 x N^3 covariance matrix. In the first part of the talk, we present a new low-rank estimation method that requires computing only a small subset of the columns of the covariance while still providing an approximation for the entire matrix. This scheme allows us to estimate tens of principal components of real datasets in a few minutes at medium resolutions and under 30 minutes at high resolutions. In the second part of the talk, we discuss a manifold learning approach based on the graph Laplacian and the diffusion maps framework for learning the manifold of conformations. If time permits, we will also discuss the potential application of optimal transportation to heterogeneity analysis. Based on joint works with Joakim Andén, Marc Gilles, Amit Halevi, Eugene Katsevich, Joe Kileel, Amit Moscovich, and Nathan Zelesko.</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="156">10:00-10:10 am</td>
@@ -235,9 +235,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">10:10-11:10 am</td>
-<td width="173">Ian Dryden</td>
-<td width="391"><strong>Title:</strong> Statistical shape analysis of molecule data</p>
-<p><strong>Abstract:</strong> Molecular shape data arise in many applications, for example high dimension low sample size cryo-electron microscopy (cryo-EM) data and large temporal sequences of peptides from molecular dynamics simulations. In both applications it is of interest to summarize the shape evolution of the molecules in a succinct, low-dimensional representation. However, Euclidean techniques such as principal components analysis (PCA) can be problematic as the data may lie far from in a flat manifold. Principal nested spheres gives a fundamentally different decomposition of data from the usual Euclidean subspace based PCA. Subspaces of successively lower dimension are fitted to the data in a backwards manner with the aim of retaining signal and dispensing with noise at each stage. We adapt the methodology to 3D sub-shape spaces and provide some practical fitting algorithms. The methodology is applied to cryo-EM data of a large sliding clamp multi-protein complex and to cluster analysis of peptides, where different states of the molecules can be identified. Further molecular modeling tasks include resolution matching, where coarse resolution models are back-mapped into high resolution (atomistic) structures. This is joint work with Kwang-Rae Kim, Charles Laughton and Huiling Le.</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong>TBA</td>
 </tr>
 <tr>
 <td width="156">11:10-11:20 am</td>
@@ -245,9 +245,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">11:20 am-12:20 pm</td>
-<td width="173">Tamara Broderick</td>
-<td width="391"><strong>Title:</strong> An Automatic Finite-Sample Robustness Metric: Can Dropping a Little Data Change Conclusions?</p>
-<p><strong>Abstract:</strong> One hopes that data analyses will be used to make beneficial decisions regarding people&#8217;s health, finances, and well-being. But the data fed to an analysis may systematically differ from the data where these decisions are ultimately applied. For instance, suppose we analyze data in one country and conclude that microcredit is effective at alleviating poverty; based on this analysis, we decide to distribute microcredit in other locations and in future years. We might then ask: can we trust our conclusion to apply under new conditions? If we found that a very small percentage of the original data was instrumental in determining the original conclusion, we might not be confident in the stability of the conclusion under new conditions. So we propose a method to assess the sensitivity of data analyses to the removal of a very small fraction of the data set. Analyzing all possible data subsets of a certain size is computationally prohibitive, so we provide an approximation. We call our resulting method the Approximate Maximum Influence Perturbation. Our approximation is automatically computable, theoretically supported, and works for common estimators. We show that any non-robustness our method finds is conclusive. Empirics demonstrate that while some applications are robust, in others the sign of a treatment effect can be changed by dropping less than 0.1% of the data &#8212; even in simple models and even when standard errors are small.</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="156"> 12:20-1:50 pm</td>
@@ -255,13 +255,12 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156"></td>
-<td colspan="2" width="564">Afternoon Session Chair: Ezra Miller</td>
+<td colspan="2" width="564">Afternoon Session Chair: </td>
 </tr>
 <tr>
 <td width="156">1:50-2:50 pm</td>
-<td width="173">Nicolai Reshetikhin*</td>
-<td width="391"><strong>Title:</strong> Random surfaces in exactly solvable models in statistical mechanics.</p>
-<p><strong>Abstract:</strong> In the first part of the talk I will be an overview of a few models in statistical mechanics where a random variable is a geometric object such as a random surface or a random curve. The second part will be focused on the behavior of such random surfaces in the thermodynamic limit and on the formation of the so-called “limit shapes”.</td>
+<td width="173">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
 <td width="156">2:50-3:00 pm</td>
@@ -269,9 +268,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">3:00-4:00 pm</td>
-<td width="173">Sebastian Kurtek</td>
-<td width="391"><strong>Title:</strong> Robust Persistent Homology Using Elastic Functional Data Analysis</p>
-<p><strong>Abstract:</strong> Persistence landscapes are functional summaries of persistence diagrams designed to enable analysis of the diagrams using tools from functional data analysis. They comprise a collection of scalar functions such that birth and death times of topological features in persistence diagrams map to extrema of functions and intervals where they are non-zero. As a consequence, variation in persistence diagrams is encoded in both amplitude and phase components of persistence landscapes. Through functional data analysis of persistence landscapes, under an elastic Riemannian metric, we show how meaningful statistical summaries of persistence landscapes (e.g., mean, dominant directions of variation) can be obtained by decoupling their amplitude and phase variations. This decoupling is achieved via optimal alignment, with respect to the elastic metric, of the persistence landscapes. The estimated phase functions are tied to the resolution parameter that determines the filtration of simplicial complexes used to construct persistence diagrams. For a dataset obtained under geometric, scale and sampling variabilities, the phase function prescribes an optimal rate of increase of the resolution parameter for enhancing the topological signal in a persistence diagram. The proposed approach adds to the statistical analysis of data objects with rich structure compared to past studies. In particular, we focus on two sets of data that have been analyzed in the past, brain artery trees and images of prostate cancer cells, and show that separation of amplitude and phase of persistence landscapes is beneficial in both settings. This is joint work with Dr. James Matuk (Duke University) and Dr. Karthik Bharath (University of Nottingham).</td>
+<td width="173">TBA </td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="156">4:00-4:10 pm</td>
