@@ -49,8 +49,95 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 ## Schedule
 
-h4>SCHEDULE</h4>
-<p><strong>Monday, Feb. 27, 2023 (Eastern Time)</strong></p>
+<p><strong>Monday, July 29, 2023 (Beijing Time)</strong></p>
+<table width="720">
+<tbody>
+<tr>
+<td width="158">8:30 am</td>
+<td colspan="2" width="562">Breakfast</td>
+</tr>
+<tr>
+<td width="158">8:45–8:55 am</td>
+<td width="172">To be added</td>
+<td width="391">Welcome Remarks</td>
+</tr>
+<tr>
+<td width="158">8:55–9:00 am</td>
+<td width="172">To be added *</td>
+<td width="391">Remarks</td>
+</tr>
+<tr>
+<td width="158"></td>
+<td colspan="2" width="562">Morning Session Chair: </td>
+</tr>
+<tr>
+<td width="158">9:00–10:00 am</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA </td>
+</tr>
+<tr>
+<td width="158">10:00–10:10 am</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">10:10–11:10 am</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA </p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="158">11:10–11:20 am</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">11:20 am–12:20 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="158"> 12:20–1:50 pm</td>
+<td colspan="2" width="562">12:20 pm Group Photo</p>
+<p>followed by Lunch</td>
+</tr>
+<tr>
+<td width="158"></td>
+<td colspan="2" width="562">Afternoon Session Chair: </td>
+</tr>
+<tr>
+<td width="158">1:50–2:50 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract: </strong>TBA.</td>
+</tr>
+<tr>
+<td width="158">2:50–3:00 pm</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">3:00-4:00 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</td>
+<p><strong>Abstract: </strong>TBA.</td>
+</tr>
+<tr>
+<td width="158">4:00-4:10 pm</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">4:10-5:10 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 
+
+<p><strong>Monday, July 29, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
