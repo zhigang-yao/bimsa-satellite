@@ -49,36 +49,31 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 ## Schedule
 
-<p><strong>Monday, Feb. 27, 2023 (Eastern Time)</strong></p>
+<p><strong>Monday, July 29, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
 <td width="158">8:30 am</td>
-<td colspan="2" width="562">Breakfast</td>
+<td colspan="2" width="562">Check in</td>
 </tr>
 <tr>
 <td width="158">8:45–8:55 am</td>
-<td width="172">Zhigang Yao</td>
+<td width="172">TBA</td>
 <td width="391">Welcome Remarks</td>
 </tr>
 <tr>
 <td width="158">8:55–9:00 am</td>
-<td width="172">Shing-Tung Yau*</td>
+<td width="172">TBA</td>
 <td width="391">Remarks</td>
 </tr>
 <tr>
 <td width="158"></td>
-<td colspan="2" width="562">Morning Session Chair: Zhigang Yao</td>
+<td colspan="2" width="562">Morning Session Chair: </td>
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
 <td width="172">David Donoho</td>
-<td width="391"><strong>Title:</strong> ScreeNOT: Exact MSE-Optimal Singular Value Thresholding in Correlated Noise</p>
-<p><strong>Abstract:</strong> Truncation of the singular value decomposition is a true scientific workhorse. But where to Truncate?</p>
-<p>For 55 years the answer, for many scientists, has been to eyeball the scree plot, an approach which still generates hundreds of papers per year.</p>
-<p>I will describe ScreeNOT, a mathematically solid alternative deriving from the many advances in Random Matrix Theory over those 55 years. Assuming a model of low-rank signal plus possibly correlated noise, and adopting an asymptotic viewpoint with number of rows proportional to the number of columns, we show that ScreeNOT has a surprising oracle property.</p>
-<p>It typically achieves exactly, in large finite samples, the lowest possible MSE for matrix recovery, on each given problem instance – i.e. the specific threshold it selects gives exactly the smallest achievable MSE loss among all possible threshold choices for that noisy dataset and that unknown underlying true low rank model. The method is computationally efficient and robust against perturbations of the underlying covariance structure.</p>
-<p>The talk is based on joint work with Matan Gavish and Elad Romanov, Hebrew University.</td>
+<td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
 <td width="158">10:00–10:10 am</td>
