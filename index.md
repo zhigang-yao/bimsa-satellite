@@ -136,7 +136,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p> 
-<<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
+<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
@@ -214,7 +214,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p><strong> </strong></p>
 <p><strong> </strong></p>
-<p><strong>Wednesday, March 1, 2023 (Eastern Time)</strong></p>
+<p><strong>July 31, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
