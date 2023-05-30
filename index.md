@@ -282,12 +282,11 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">5:10-5:20 pm</td>
-<td width="173">Stephan Huckemann, Ezra Miller, Zhigang Yao</td>
+<td width="173">TBA </td>
 <td width="391">Closing Remarks</td>
 </tr>
 </tbody>
 </table>
-<p>* Virtual Presentation</p>
 <hr />
 <p>&nbsp;</p>
 
