@@ -126,11 +126,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">4:10-5:10 pm</td>
-<td width="172">Stefanie Jegelka</td>
-<td width="391"><strong>Title:</strong> Some benefits of machine learning with invariances</p>
-<p><strong>Abstract:</strong> In many applications, especially in the sciences, data and tasks have known invariances. Encoding such invariances directly into a machine learning model can improve learning outcomes, while it also poses challenges on efficient model design. In the first part of the talk, we will focus on the invariances relevant to eigenvectors and eigenspaces being inputs to a neural network. Such inputs are important, for instance, for graph representation learning. We will discuss targeted architectures that can universally express functions with the relevant invariances – sign flips and changes of basis – and their theoretical and empirical benefits.</p>
-<p>Second, we will take a broader, theoretical perspective. Empirically, it is known that encoding invariances into the machine learning model can reduce sample complexity. For the simplified setting of kernel ridge regression or random features, we will discuss new bounds that illustrate two ways in which invariances can reduce sample complexity. Our results hold for learning on manifolds and for invariances to (almost) any group action, and use tools from differential geometry.</p>
-<p>This is joint work with Derek Lim, Joshua Robinson, Behrooz Tahmasebi, Lingxiao Zhao, Tess Smidt, Suvrit Sra, and Haggai Maron.</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA </p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 </tbody>
 </table>
@@ -138,7 +136,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p><strong>Tuesday, Feb. 28, 2023 (Eastern Time)</strong></p>
+<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
@@ -147,13 +145,12 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="572">Morning Session Chair: Zhigang Yao</td>
+<td colspan="2" width="572">Morning Session Chair: </td>
 </tr>
 <tr>
 <td width="148">9:00-10:00 am</td>
-<td width="181">Charles Fefferman*</td>
-<td width="391"><strong>Title:</strong> Lipschitz Selection on Metric Spaces</p>
-<p><strong>Abstract:</strong> The talk concerns the problem of finding a Lipschitz map F from a given metric space X into R^D, subject to the constraint that F(x) must lie in a given compact convex “target” K(x) for each point x in X. Joint work with Pavel Shvartsman and with Bernat Guillen Pegueroles.</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA </td>
 </tr>
 <tr>
 <td width="148">10:00-10:10 am</td>
@@ -161,9 +158,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">10:10-11:10 am</td>
-<td width="181">David Dunson</td>
-<td width="391"><strong>Title:</strong> Inferring manifolds from noisy data using Gaussian processes</p>
-<p><strong>Abstract:</strong> In analyzing complex datasets, it is often of interest to infer lower dimensional structure underlying the higher dimensional observations. As a flexible class of nonlinear structures, it is common to focus on Riemannian manifolds. Most existing manifold learning algorithms replace the original data with lower dimensional coordinates without providing an estimate of the manifold in the observation space or using the manifold to denoise the original data. This article proposes a new methodology for addressing these problems, allowing interpolation of the estimated manifold between fitted data points. The proposed approach is motivated by novel theoretical properties of local covariance matrices constructed from noisy samples on a manifold. Our results enable us to turn a global manifold reconstruction problem into a local regression problem, allowing application of Gaussian processes for probabilistic manifold reconstruction. In addition to theory justifying the algorithm, we provide simulated and real data examples to illustrate the performance. Joint work with Nan Wu – see <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__arxiv.org_abs_2110.07478&amp;d=DwMGaQ&amp;c=WO-RGvefibhHBZq3fL85hQ&amp;r=pg7MuMiuhw-aBaf5cO2R2PbzJqvpTIgA4KnfMLbB4C4&amp;m=TZdm7Wmbvik_R4PGCwnroCcbxihGTwKj3Caf5dPgjeS2vUXm58TfxsWhvnHMeM_E&amp;s=VYPvjJ2LAGs9l4pWwJoF9ArYSKAMcPe1YrkU7tei60Q&amp;e=">https://arxiv.org/abs/2110.07478</a></td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</a></td>
 </tr>
 <tr>
 <td width="148">11:10-11:20 am</td>
@@ -171,9 +167,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">11:20 am-12:20 pm</td>
-<td width="181">Wolfgang Polonik</td>
-<td width="391"><strong>Title:</strong> Inference in topological data analysis</p>
-<p><strong>Abstract:</strong> Topological data analysis has seen a huge increase in popularity finding applications in numerous scientific fields. This motivates the importance of developing a deeper understanding of benefits and limitations of such methods. Using this angle, we will present and discuss some recent results on large sample inference in topological data analysis, including bootstrap for Betti numbers and the Euler characteristics process.</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="148"></td>
@@ -185,13 +181,13 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="572">Afternoon Session Chair: Stephan Huckemann</td>
+<td colspan="2" width="572">Afternoon Session Chair: </td>
 </tr>
 <tr>
 <td width="148">1:50-2:50 pm</td>
-<td width="181">Ezra Miller</td>
-<td width="391"><strong>Title:</strong> Geometric central limit theorems on non-smooth spaces</p>
-<p><strong>Abstract:</strong> The central limit theorem (CLT) is commonly thought of as occurring on the real line, or in multivariate form on a real vector space. Motivated by statistical applications involving nonlinear data, such as angles or phylogenetic trees, the past twenty years have seen CLTs proved for Fréchet means on manifolds and on certain examples of singular spaces built from flat pieces glued together in combinatorial ways. These CLTs reduce to the linear case by tangent space approximation or by gluing. What should a CLT look like on general non-smooth spaces, where tangent spaces are not linear and no combinatorial gluing or flat pieces are available? Answering this question involves figuring out appropriate classes of spaces and measures, correct analogues of Gaussian random variables, and how the geometry of the space (think “curvature”) is reflected in the limiting distribution. This talk provides an overview of these answers, starting with a review of the usual linear CLT and its generalization to smooth manifolds, viewed through a lens that casts the singular CLT as a natural outgrowth, and concluding with how this investigation opens gateways to further advances in geometric probability, topology, and statistics. Joint work with Jonathan Mattingly and Do Tran.</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title:</strong> TBA </p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="148">2:50-3:00 pm</td>
@@ -199,9 +195,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">3:00-4:00 pm</td>
-<td width="181">Lizhen Lin</td>
-<td width="391"><strong>Title: </strong>Statistical foundations of deep generative models</p>
-<p><strong>Abstract:</strong> Deep generative models are probabilistic generative models where the generator is parameterized by a deep neural network. They are popular models for modeling high-dimensional data such as texts, images and speeches, and have achieved impressive empirical success. Despite demonstrated success in empirical performance, theoretical understanding of such models is largely lacking. We investigate statistical properties of deep generative models from a nonparametric distribution estimation viewpoint. In the considered model, data are assumed to be observed in some high-dimensional ambient space but concentrate around some low-dimensional structure such as a lower-dimensional manifold structure. Estimating the distribution supported on this low-dimensional structure is challenging due to its singularity with respect to the Lebesgue measure in the ambient space. We obtain convergence rates with respect to the Wasserstein metric of distribution estimators based on two methods: a sieve MLE based on the perturbed data and a GAN type estimator. Such an analysis provides insights into i) how deep generative models can avoid the curse of dimensionality and outperform classical nonparametric estimates, and ii) how likelihood approaches work for singular distribution estimation, especially in adapting to the intrinsic geometry of the data.</td>
+<td width="181">TBA</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="148">4:00-4:10 pm</td>
