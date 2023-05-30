@@ -72,7 +72,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
-<td width="172">David Donoho</td>
+<td width="172">TBA</td>
 <td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
@@ -81,9 +81,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">10:10–11:10 am</td>
-<td width="172">Steve Marron</td>
-<td width="391"><strong>Title:</strong> Modes of Variation in Non-Euclidean Spaces</p>
-<p><strong>Abstract:</strong> Modes of Variation provide an intuitive means of understanding variation in populations, especially in the case of data objects that naturally lie in non-Euclidean spaces. A variety of useful approaches to finding useful modes of variation are considered in several non-Euclidean contexts, including shapes as data objects, vectors of directional data, amplitude and phase variation and compositional data.</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="158">11:10–11:20 am</td>
@@ -91,9 +91,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">11:20 am–12:20 pm</td>
-<td width="172">Zhigang Yao</td>
-<td width="391"><strong>Title:</strong> Manifold fitting: an invitation to statistics</p>
-<p><strong>Abstract:</strong> While classical statistics has dealt with observations which are real numbers or elements of a real vector space, nowadays many statistical problems of high interest in the sciences deal with the analysis of data which consist of more complex objects, taking values in spaces which are naturally not (Euclidean) vector spaces but which still feature some geometric structure. This manifold fitting problem can go back to H. Whitney’s work in the early 1930s (Whitney (1992)), and finally has been answered in recent years by C. Fefferman’s works (Fefferman, 2006, 2005). The solution to the Whitney extension problem leads to new insights for data interpolation and inspires the formulation of the Geometric Whitney Problems (Fefferman et al. (2020, 2021a)): Assume that we are given a set $Y \subset \mathbb{R}^D$. When can we construct a smooth $d$-dimensional submanifold $\widehat{M} \subset \mathbb{R}^D$ to approximate $Y$, and how well can $\widehat{M}$ estimate $Y$ in terms of distance and smoothness? To address these problems, various mathematical approaches have been proposed (see Fefferman et al. (2016, 2018, 2021b)). However, many of these methods rely on restrictive assumptions, making extending them to efficient and workable algorithms challenging. As the manifold hypothesis (non-Euclidean structure exploration) continues to be a foundational element in statistics, the manifold fitting Problem, merits further exploration and discussion within the modern statistical community. The talk will be partially based on a recent work Yao and Xia (2019) along with some on-going progress. Relevant reference:https://arxiv.org/abs/1909.10228</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="158"> 12:20–1:50 pm</td>
@@ -102,13 +102,13 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158"></td>
-<td colspan="2" width="562">Afternoon Session Chair: Stephan Huckemann</td>
+<td colspan="2" width="562">Afternoon Session Chair: </td>
 </tr>
 <tr>
 <td width="158">1:50–2:50 pm</td>
-<td width="172">Bin Yu*</td>
-<td width="391"><strong>Title: </strong>Interpreting Deep Neural Networks towards Trustworthiness</p>
-<p><strong>Abstract: </strong>Recent deep learning models have achieved impressive predictive performance by learning complex functions of many variables, often at the cost of interpretability. This lecture first defines interpretable machine learning in general and introduces the agglomerative contextual decomposition (ACD) method to interpret neural networks. Extending ACD to the scientifically meaningful frequency domain, an adaptive wavelet distillation (AWD) interpretation method is developed. AWD is shown to be both outperforming deep neural networks and interpretable in two prediction problems from cosmology and cell biology. Finally, a quality-controlled data science life cycle is advocated for building any model for trustworthy interpretation and introduce a Predictability Computability Stability (PCS) framework for such a data science life cycle.</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract: </strong>TBA</td>
 </tr>
 <tr>
 <td width="158">2:50–3:00 pm</td>
@@ -116,10 +116,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">3:00-4:00 pm</td>
-<td width="172">Hans-Georg Mueller</td>
-<td width="391"><strong>Title:</strong> Exploration of Random Objects with Depth Profiles and Fréchet Regression</p>
-<p><strong>Abstract:</strong> Random objects, i.e., random variables that take values in a separable metric space, pose many challenges for statistical analysis, as vector operations are not available in general metric spaces. Examples include random variables that take values in the space of distributions, covariance matrices or surfaces, graph Laplacians to represent networks, trees and in other spaces. The increasing prevalence of samples of random objects has stimulated the development of metric statistics, an emerging collection of statistical tools to characterize, infer and relate samples of random objects. Recent developments include depth profiles, which are useful for the exploration of random objects. The depth profile for any given object is the distribution of distances to all other objects (with P. Dubey, Y. Chen 2022).</p>
-<p>These distributions can then be subjected to statistical analysis. Their mutual transports lead to notions of transport ranks, quantiles and centrality. Another useful tool is global or local Fréchet regression (with A. Petersen 2019) where random objects are responses and scalars or vectors are predictors and one aims at modeling conditional Fréchet means. Recent theoretical advances for local Fréchet regression provide a basis for object time warping (with Y. Chen 2022). These approaches are illustrated with distributional and other data.</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA/p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="158">4:00-4:10 pm</td>
