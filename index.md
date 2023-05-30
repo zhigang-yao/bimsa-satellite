@@ -59,17 +59,17 @@ h4>SCHEDULE</h4>
 </tr>
 <tr>
 <td width="158">8:45–8:55 am</td>
-<td width="172">Zhigang Yao</td>
+<td width="172">To be added</td>
 <td width="391">Welcome Remarks</td>
 </tr>
 <tr>
 <td width="158">8:55–9:00 am</td>
-<td width="172">Shing-Tung Yau*</td>
+<td width="172">To be added *</td>
 <td width="391">Remarks</td>
 </tr>
 <tr>
 <td width="158"></td>
-<td colspan="2" width="562">Morning Session Chair: Zhigang Yao</td>
+<td colspan="2" width="562">Morning Session Chair: </td>
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
