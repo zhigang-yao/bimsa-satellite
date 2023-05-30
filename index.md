@@ -108,7 +108,7 @@ h4>SCHEDULE</h4>
 </tr>
 <tr>
 <td width="158">1:50–2:50 pm</td>
-<td width="172">Bin Yu*</td>
+<td width="172">TBA</td>
 <td width="391"><strong>Title: </strong>TBA</p>
 <p><strong>Abstract: </strong>TBA.</td>
 </tr>
@@ -120,6 +120,7 @@ h4>SCHEDULE</h4>
 <td width="158">3:00-4:00 pm</td>
 <td width="172">TBA</td>
 <td width="391"><strong>Title:</strong> TBA</td>
+<p><strong>Abstract: </strong>TBA.</td>
 </tr>
 <tr>
 <td width="158">4:00-4:10 pm</td>
