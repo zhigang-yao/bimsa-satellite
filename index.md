@@ -49,12 +49,61 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 ## Schedule
 
+h4>SCHEDULE</h4>
+<p><strong>Monday, Feb. 27, 2023 (Eastern Time)</strong></p>
+<table width="720">
+<tbody>
+<tr>
+<td width="158">8:30 am</td>
+<td colspan="2" width="562">Breakfast</td>
+</tr>
+<tr>
+<td width="158">8:45–8:55 am</td>
+<td width="172">Zhigang Yao</td>
+<td width="391">Welcome Remarks</td>
+</tr>
+<tr>
+<td width="158">8:55–9:00 am</td>
+<td width="172">Shing-Tung Yau*</td>
+<td width="391">Remarks</td>
+</tr>
+<tr>
+<td width="158"></td>
+<td colspan="2" width="562">Morning Session Chair: Zhigang Yao</td>
+</tr>
+<tr>
+<td width="158">9:00–10:00 am</td>
+<td width="172">David Donoho</td>
+<td width="391"><strong>Title:</strong> ScreeNOT: Exact MSE-Optimal Singular Value Thresholding in Correlated Noise</p>
+<p><strong>Abstract:</strong> Truncation of the singular value decomposition is a true scientific workhorse. But where to Truncate?</p>
+<p>For 55 years the answer, for many scientists, has been to eyeball the scree plot, an approach which still generates hundreds of papers per year.</p>
+<p>I will describe ScreeNOT, a mathematically solid alternative deriving from the many advances in Random Matrix Theory over those 55 years. Assuming a model of low-rank signal plus possibly correlated noise, and adopting an asymptotic viewpoint with number of rows proportional to the number of columns, we show that ScreeNOT has a surprising oracle property.</p>
+<p>It typically achieves exactly, in large finite samples, the lowest possible MSE for matrix recovery, on each given problem instance – i.e. the specific threshold it selects gives exactly the smallest achievable MSE loss among all possible threshold choices for that noisy dataset and that unknown underlying true low rank model. The method is computationally efficient and robust against perturbations of the underlying covariance structure.</p>
+<p>The talk is based on joint work with Matan Gavish and Elad Romanov, Hebrew University.</td>
+</tr>
+<tr>
+<td width="158">10:00–10:10 am</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">10:10–11:10 am</td>
+<td width="172">Steve Marron</td>
+<td width="391"><strong>Title:</strong> Modes of Variation in Non-Euclidean Spaces</p>
+<p><strong>Abstract:</strong> Modes of Variation provide an intuitive means of understanding variation in populations, especially in the case of data objects that naturally lie in non-Euclidean spaces. A variety of useful approaches to finding useful modes of variation are considered in several non-Euclidean contexts, including shapes as data objects, vectors of directional data, amplitude and phase variation and compositional data.</td>
+</tr>
+<tr>
+<td width="158">11:10–11:20 am</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">11:20 am–12:20 pm</td>
+ 
+
 | 8:30 am        |   Check-in                        |
 |:-------------|:------------------|:------|
-| 8:45–8:55 am           | Zhigang Yao | Welcome Remarks  |
-|  | Morning Session Chair:   |   |
-| 9:00–10:00 am           |       | Title: 
-Abstract:    |
+| 8:45–8:55 am           |  | Welcome Remarks  |
+|             | Morning Session Chair:   |   |
+| 9:00–10:00 am           |       | Title:  Abstract:    |
 | 10:00–10:10 am          | Break  |
 
 
