@@ -4,3 +4,5 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 site.github.is_project_page: false
+
+markdown: GFM
