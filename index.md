@@ -93,7 +93,49 @@ h4>SCHEDULE</h4>
 </tr>
 <tr>
 <td width="158">11:20 am–12:20 pm</td>
- 
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
+</tr>
+<tr>
+<td width="158"> 12:20–1:50 pm</td>
+<td colspan="2" width="562">12:20 pm Group Photo</p>
+<p>followed by Lunch</td>
+</tr>
+<tr>
+<td width="158"></td>
+<td colspan="2" width="562">Afternoon Session Chair: </td>
+</tr>
+<tr>
+<td width="158">1:50–2:50 pm</td>
+<td width="172">Bin Yu*</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract: </strong>TBA.</td>
+</tr>
+<tr>
+<td width="158">2:50–3:00 pm</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">3:00-4:00 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</td>
+</tr>
+<tr>
+<td width="158">4:00-4:10 pm</td>
+<td colspan="2" width="562">Break</td>
+</tr>
+<tr>
+<td width="158">4:10-5:10 pm</td>
+<td width="172">TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
+<p><strong>Abstract:</strong> TBA.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 
 ## Sponsors
