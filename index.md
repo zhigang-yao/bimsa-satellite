@@ -136,7 +136,6 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p> 
-
 <<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
@@ -184,7 +183,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="572">Afternoon Session Chair: Stephan Huckemann</td>
+<td colspan="2" width="572">Afternoon Session Chair: </td>
 </tr>
 <tr>
 <td width="148">1:50-2:50 pm</td>
