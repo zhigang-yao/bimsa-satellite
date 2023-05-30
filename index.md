@@ -137,25 +137,15 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>&nbsp;</p>
 <p>&nbsp;</p> 
 
-<p><strong>Monday, July 29, 2023 (Beijing Time)</strong></p>
+<<p><strong>Tuesday, July 30, 2023 (Beijing Time)</strong></p>
 <table width="720">
 <tbody>
 <tr>
-<td width="158">8:30 am</td>
-<td colspan="2" width="562">Breakfast</td>
+<td width="148">8:30-9:00 am</td>
+<td colspan="2" width="572">Breakfast</td>
 </tr>
 <tr>
-<td width="158">8:45–8:55 am</td>
-<td width="172">To be added</td>
-<td width="391">Welcome Remarks</td>
-</tr>
-<tr>
-<td width="158">8:55–9:00 am</td>
-<td width="172">To be added *</td>
-<td width="391">Remarks</td>
-</tr>
-<tr>
-<td width="158"></td>
+<td width="148"></td>
 <td colspan="2" width="562">Morning Session Chair: </td>
 </tr>
 <tr>
