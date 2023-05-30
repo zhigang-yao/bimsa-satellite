@@ -48,6 +48,7 @@ Register [here] to attend in-person.
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
 ## Schedule
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
