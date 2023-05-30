@@ -15,7 +15,7 @@ This conference is a satellite conference of the International Congress of Basic
  </p>
 
 ## Registration
-Register [here](https://forms.office.com/Pages/ShareFormPage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmGJcREF-WJKuIsibcivb7VUQVJRU04wRUw0RENEVEwyMVpDMFhDTzhNQy4u&sharetoken=ZKv358t5TCBvoL3FXuIz) to attend in-person.
+Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmpbYjD-L7FOnmHeW3HK8HJUQkNYNkVWSThVWUJIQVlOWlVVUlFZSzUwTi4u) to attend in-person.
 ## Invited speakers 
 * Ke Deng (Tsinghua)
 * Scott V. Edwards (Harvard)
