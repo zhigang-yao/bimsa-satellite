@@ -301,7 +301,6 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p>* Virtual Presentation</p>
 <hr />
 <p>&nbsp;</p>
-
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
 ![ymsc](./pic/yanqi_small.png) -->
