@@ -23,6 +23,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Stephan Huckemann (Georg-August-Universität Göttingen)
 * Yongdai Kim (Seoul National U)
 * Xiangdong Li (UCAS)
+* Kefeng Liu (UCLA)
 * Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
 * Stefan Sommer (U of Copenhagen)
