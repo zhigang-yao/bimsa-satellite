@@ -184,7 +184,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">1:50-2:50 pm</td>
-<td width="181">TBA</td>
+<td width="181">Stefan Sommer (U of Copenhagen)</td>
 <td width="391"><strong>Title:</strong> TBA </p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
@@ -194,7 +194,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">3:00-4:00 pm</td>
-<td width="181">TBA</td>
+<td width="181">Yongdai Kim (SNU)</td>
 <td width="391"><strong>Title: </strong>TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
@@ -203,8 +203,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <td colspan="2" width="572">Break</td>
 </tr>
 <tr>
-<td width="148">4:10-5:10 pm</td>
-<td colspan="2" width="572">Conversation session</td>
+<td width="181">Zaiwen Wen (Peking U)</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 </tbody>
 </table>
