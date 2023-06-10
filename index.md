@@ -58,14 +58,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <td colspan="2" width="562">Check in</td>
 </tr>
 <tr>
-<td width="158">8:45–8:55 am</td>
-<td width="172">TBA</td>
+<td width="158">8:45–9:00 am</td>
+<td width="172">Zhigang Yao</td>
 <td width="391">Welcome Remarks</td>
-</tr>
-<tr>
-<td width="158">8:55–9:00 am</td>
-<td width="172">TBA</td>
-<td width="391">Remarks</td>
 </tr>
 <tr>
 <td width="158"></td>
