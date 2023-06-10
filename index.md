@@ -260,7 +260,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">1:50-2:50 pm</td>
-<td width="173">TBA</td>
+<td width="173">Xiangdong Li (UCAS)</td>
 <td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">3:00-4:00 pm</td>
-<td width="173">TBA </td>
+<td width="173">Ke Ye (UCAS)  </td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
@@ -278,8 +278,10 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <td colspan="2" width="564">Break</td>
 </tr>
 <tr>
-<td width="156">4:10-5:10 pm</td>
-<td colspan="2" width="564">Conversation session</td>
+<td width="148">4:10-5:00 pm</td>
+<td width="181">Louis Christie (Cambridge)</td>
+<td width="391"><strong>Title: </strong>TBA</p>
+<p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
 <td width="156">5:10-5:20 pm</td>
