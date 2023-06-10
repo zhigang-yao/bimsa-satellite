@@ -199,10 +199,11 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
 <tr>
-<td width="148">4:00-4:10 pm</td>
+<td width="148">4:00-5:10 pm</td>
 <td colspan="2" width="572">Break</td>
 </tr>
 <tr>
+<td width="148">4:10-5:00 pm</td>
 <td width="181">Zaiwen Wen (Peking U)</td>
 <td width="391"><strong>Title: </strong>TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
