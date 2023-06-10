@@ -107,7 +107,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">1:50–2:50 pm</td>
-<td width="172">TBA</td>
+<td width="172">Stephen Yau (Tsinghua)</td>
 <td width="391"><strong>Title: </strong>TBA</p>
 <p><strong>Abstract: </strong>TBA</td>
 </tr>
@@ -117,7 +117,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">3:00-4:00 pm</td>
-<td width="172">TBA</td>
+<td width="172">Zhiquan Luo (CUHK-Shenzhen)</td>
 <td width="391"><strong>Title:</strong> TBA/p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
@@ -127,7 +127,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">4:10-5:10 pm</td>
-<td width="172">TBA</td>
+<td width="172">Chunming Zhang (UW Madison)</td>
 <td width="391"><strong>Title:</strong> TBA </p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
