@@ -148,7 +148,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">9:00-10:00 am</td>
-<td width="181">TBA</td>
+<td width="181">Ezra Miller (Duke)</td>
 <td width="391"><strong>Title:</strong> TBA </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">10:10-11:10 am</td>
-<td width="181">TBA</td>
+<td width="181">Scott Edwards (Harvard)</td>
 <td width="391"><strong>Title:</strong> TBA</a></td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">11:20 am-12:20 pm</td>
-<td width="181">TBA</td>
+<td width="181">Jian Zhang (U of Kent)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
