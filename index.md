@@ -73,7 +73,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
-<td width="172">TBA</td>
+<td width="172">Stephan Huckemann (Göttingen)</td>
 <td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
