@@ -82,7 +82,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">10:10–11:10 am</td>
-<td width="172">TBA</td>
+<td width="172">Kefeng Liu (UCLA)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
@@ -92,7 +92,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">11:20 am–12:20 pm</td>
-<td width="172">TBA</td>
+<td width="172">Zhigang Yao (NUS/Harvard CMSA)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
