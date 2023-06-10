@@ -17,6 +17,7 @@ This conference is a satellite conference of the International Congress of Basic
 ## Registration
 Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmpbYjD-L7FOnmHeW3HK8HJUQkNYNkVWSThVWUJIQVlOWlVVUlFZSzUwTi4u) to attend in-person.
 ## Invited speakers 
+* Louis Christie (Cambridge)
 * Ke Deng (Tsinghua)
 * Scott V. Edwards (Harvard)
 * Yang-Hui He (London Institute for Mathematical Sciences)
@@ -34,7 +35,6 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Ke Ye (UCAS)
 * Chunming Zhang (UW Madison)
 * Jian Zhang (U of Kent)
-* More to add
 
 ## Organizing Committee
 * Rongling Wu (BIMSA)
