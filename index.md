@@ -226,7 +226,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">9:00-10:00 am</td>
-<td width="173">TBA</td>
+<td width="173">Yang-Hui He (London Institute for Mathematical Sciences)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
@@ -236,7 +236,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">10:10-11:10 am</td>
-<td width="173">TBA</td>
+<td width="173">Ke Deng (Tsinghua)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong>TBA</td>
 </tr>
@@ -246,7 +246,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">11:20 am-12:20 pm</td>
-<td width="173">TBA</td>
+<td width="173">Weng Kee Wong (UCLA)</td>
 <td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA</td>
 </tr>
