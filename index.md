@@ -180,8 +180,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">1:50-2:50 pm</td>
 <td width="181">Stefan Sommer (U of Copenhagen)</td>
-<td width="391"><strong>Title:</strong> TBA </p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title:</strong> Diffusions means in geometric statistics </p>
+<p><strong>Abstract:</strong> Analysis and statistics of shape variation and, more generally, manifold valued data can be formulated probabilistically with geodesic distances between shapes exchanged with (-log)likelihoods. This leads to new statistics and estimation algorithms. One example is the notion of diffusion mean. In the talk, I will discuss the motivation behind and construction of diffusion means and discuss properties of the mean, including reduced smeariness when estimating diffusion variance together with the mean. I will connect this to most probable paths to data and algorithms for computing diffusion means, particularly bridge sampling algorithms. Finally, we will discuss computationally efficient approaches to mean estimation and links to conditioned diffusion processes in morphology and phylogenetic analysis. </td>
 </tr>
 <tr>
 <td width="148">2:50-3:00 pm</td>
