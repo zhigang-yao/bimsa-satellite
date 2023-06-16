@@ -222,8 +222,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="156">9:00-10:00 am</td>
 <td width="173">Yang-Hui He (London Institute for Mathematical Sciences)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title:</strong> AI for Mathematics</p>
+<p><strong>Abstract:</strong> We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine-learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory.</td>
 </tr>
 <tr>
 <td width="156">10:00-10:10 am</td>
