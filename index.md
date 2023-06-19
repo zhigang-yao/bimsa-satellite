@@ -200,8 +200,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">4:10-5:00 pm</td>
 <td width="181">Zaiwen Wen (Peking U)</td>
-<td width="391"><strong>Title: </strong>TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title: </strong>A Monte Carlo Policy Gradient Method with Local Search for Binary Optimization</p>
+<p><strong>Abstract:</strong> Binary integer programming problems are ubiquitous in many practical applications, including the MaxCut and cheeger cut problem, the MIMO detection and MaxSAT, etc. They are NP-hard due to the combinatorial structure. In this talk, we present a policy gradient method using deep Monte Carlo local search to ensure sufficient exploration in discrete spaces. The local search method is proved to improve the quality of integer solutions and the policy gradient descent converges to stationary points in expectation. Numerical results show that this framework provides near-optimal solutions efficiently for quite a few binary optimization problems.</td>
 </tr>
 </tbody>
 </table>
