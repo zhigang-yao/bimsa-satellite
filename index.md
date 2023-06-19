@@ -241,9 +241,10 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">11:20 am-12:20 pm</td>
-<td width="173">Weng Kee Wong (UCLA)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="173">Xiangdong Li (AMSS/CAS)</td>
+<td width="391"><strong>Title:</strong> Optimal transport problem and random matrices theory</p>
+<p><strong>Abstract:</strong> In 1776, G. Monge raised the optimal transport problem from the study of military engineering problem. 
+In 1939, L. Kantorovich reformulated the optimal transport problem and used it to study the optimal allocation problem. In 1975, Kantorovich shared the Nobel prize for economics with T. Koopmans "for their contribution on the optimal allocation of scare resources". In 1992, Y. Brenier solved the optimal transport problem with quadratic distance cost function. Since then, the optimal transport problem has received a lot of attentions both from theoretic and applied mathematics. In this talk, I will give a short survey on the history in the optimal transport problem, and then present our recent work in the study of random matrices theory using the approach from optimal transport problem. </td>
 </tr>
 <tr>
 <td width="156"> 12:20-1:50 pm</td>
@@ -255,7 +256,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">1:50-2:50 pm</td>
-<td width="173">Xiangdong Li (UCAS)</td>
+<td width="173">Weng Kee Wong (UCLA)</td>
 <td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
