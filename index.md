@@ -23,7 +23,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Yang-Hui He (London Institute for Mathematical Sciences)
 * Stephan Huckemann (Georg-August-Universität Göttingen)
 * Yongdai Kim (Seoul National U)
-* Xiangdong Li (UCAS)
+* Xiangdong Li (AMSS/CAS)
 * Kefeng Liu (UCLA)
 * Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
