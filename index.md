@@ -69,8 +69,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="158">9:00–10:00 am</td>
 <td width="172">Stephan Huckemann (Göttingen)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title:</strong> The wald space for for phylogenetic trees </p>
+<p><strong>Abstract:</strong> Most existing metrics between phylogenetic trees directly measure differences in topology and edge weights, and are unrelated to the models of evolution used to infer trees. We describe metrics which instead are based on distances between the probability models of discrete or continuous characters induced by trees. We describe how construction of information-based geodesics leads to the recently proposed wald space of phylogenetic trees. As a point set, it sits between the BHV space (Billera, Holmes and Vogtmann, 2001) and the edge-product space (Moulton and Steel 2004). It has a natural embedding into the space of positive definite matrices, equipped with the information geometry. Thus, singularities such as overlapping leaves are infinitely far away, proper forests, however, comprising the "BHV-boundary at infinity", are part of the wald space, adding boundary correspondences to groves (corresponding to orthants in the BHV space). In fact the wald space contracts to the complete disconnected forest. Further, it is a geodesic space, exhibiting the structure of a Whitney stratified space of type (A) where strata carry compatible Riemannian metrics. We explore some more geometric properties, but the full picture remains open. We conclude by identifying open problems, we deem interesting. </td>
 </tr>
 <tr>
 <td width="158">10:00–10:10 am</td>
