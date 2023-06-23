@@ -25,7 +25,6 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Yongdai Kim (Seoul National U)
 * Xiangdong Li (AMSS/CAS)
 * Kefeng Liu (UCLA)
-* Zhiquan Luo (Shenzhen Research Institute of Big Data)
 * Ezra Miller (Duke)
 * Stefan Sommer (U of Copenhagen)
 * Zaiwen Wen (Peking U)
@@ -35,6 +34,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Ke Ye (UCAS)
 * Chunming Zhang (UW Madison)
 * Jian Zhang (U of Kent)
+* Jun Zhang (Michigan)
 
 ## Organizing Committee
 * Rongling Wu (BIMSA)
@@ -114,7 +114,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">3:00-4:00 pm</td>
-<td width="172">Zhiquan Luo (CUHK-Shenzhen)</td>
+<td width="172">Jun Zhang (Michigan)</td>
 <td width="391"><strong>Title:</strong> TBA/p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
