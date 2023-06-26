@@ -164,8 +164,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">11:20 am-12:20 pm</td>
 <td width="181">Jian Zhang (U of Kent)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA </td>
+<td width="391"><strong>Title:</strong> Cross-Validated Estimation for Penalised Skew Normal and Beyond</p>
+<p><strong>Abstract:</strong> Skew normal model is often used in various scientific research fields in bioscience, business and finance studies. The skew normal distribution extends the normal distribution by including one more parameter called shape parameter, which is used to gauge the magnitude of skewness. However, the skew normal is a singular model; when the shape parameter is approaching zero, the corresponding Fisher information matrix fails to be invertible. This makes the standard maximum likelihood estimation ill-posed. The standard Bayesian information criterion may not work. Here, we address the problem by penalised likelihood estimation with penalty coefficient being determined by cross-validation. We show phase-transition behaviour of the cross-validated coefficient when the shape parameter is closing to zero. We establish a large sample theory for the penalised MLE. We evaluate the performance of the proposed method in multiple anti-cancer drug studies.![image](https://github.com/zhigang-yao/bimsa-satellite/assets/71267845/e55d5ca1-ce06-4333-b4e8-dda9a5d1f85b)
+ </td>
 </tr>
 <tr>
 <td width="148"></td>
