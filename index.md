@@ -89,8 +89,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="158">11:20 am–12:20 pm</td>
 <td width="172">Zhigang Yao (NUS/Harvard CMSA)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA </td>
+<td width="391"><strong>Title:</strong> Random fixed boundary flows: a twin sister of principal flow?</p>
+<p><strong>Abstract:</strong> While classical statistics has dealt with observations which are real numbers or elements of a real vector space, nowadays many statistical problems of high interest in the sciences deal with the analysis of data which consist of more complex objects, taking values in spaces which are naturally not (Euclidean) vector spaces but which still feature some geometric structure.  We consider fixed boundary flows with canonical interpretability as principal components extended on non-linear Riemannian manifolds. We aim to find a flow with fixed starting and ending points for noisy multivariate data sets lying near an embedded non-linear Riemannian manifold. In geometric terms, the fixed boundary flow is defined as an optimal curve that moves in the data cloud with two fixed end points. At any point on the flow, we maximize the inner product of the vector field, which is calculated locally, and the tangent vector of the flow. The rigorous definition is derived from an optimization problem using the intrinsic metric on the manifolds. For random data sets, we name the fixed boundary flow the random fixed boundary flow and analyze its limiting behavior under noisy observed samples. We show that the fixed boundary flow yields a concatenate of three segments, one of which coincides with the usual principal flow when the manifold is reduced to the Euclidean space. We further prove that the random fixed boundary flow converges largely to the population fixed boundary flow with high probability. Finally, we illustrate how the random fixed boundary flow can be used and interpreted, and demonstrate its application in real data sets. </td>
 </tr>
 <tr>
 <td width="158"> 12:20–1:50 pm</td>
