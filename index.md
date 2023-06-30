@@ -125,8 +125,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="158">4:10-5:10 pm</td>
 <td width="172">Chunming Zhang (UW Madison)</td>
-<td width="391"><strong>Title:</strong> TBA </p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title:</strong> New Statistical Learning Method for Independent Component Analysis with Applications to Brain EEG </p>
+<p><strong>Abstract:</strong> Independent Component Analysis (ICA) is a widely used unsupervised learning method in medical imaging and signal processing, aimed at extracting non-Gaussian independent components (ICs) from multi-dimensional data. However, existing optimization methods often recover ICs from observed signals in unrealistic noiseless settings, with limited theoretical guarantees. We propose a new framework for "noisy ICA" that tackles this challenge from different perspectives, inspired by the desire to identify latent components resembling neural sources of cortical origin from electroencephalography (EEG) recordings of brain activity. Our approach not only directly estimates ICs but also enables the estimation of the unknown number of latent ICs. We have developed a computationally efficient algorithm that solves the non-convex and non-smooth optimization problem with guaranteed convergence. Furthermore, we prove that our estimator is consistent under mild conditions. Numerical simulations demonstrate that our approach outperforms existing methods. Finally, we apply our method to EEG data and show that it can reveal brain source signals with improved quantity and quality.</td>
 </tr>
 </tbody>
 </table>
