@@ -28,7 +28,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Ezra Miller (Duke)
 * Stefan Sommer (U of Copenhagen)
 * Zaiwen Wen (Peking U)
-* Weng Kee Wong (UCLA)
+* Hao Xu (Zhejiang U)
 * Zhigang Yao (NUS/CMSA Harvard)
 * Stephen Yau (Tsinghua)
 * Ke Ye (UCAS)
