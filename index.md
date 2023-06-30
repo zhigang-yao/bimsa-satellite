@@ -78,9 +78,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">10:10–11:10 am</td>
-<td width="172">Kefeng Liu (UCLA)</td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="172">Yang-Hui He (London Institute for Mathematical Sciences)</td>
+<td width="391"><strong>Title:</strong> AI for mathematics</p>
+<p><strong>Abstract:</strong> We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine-learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory.</td>
 </tr>
 <tr>
 <td width="158">11:10–11:20 am</td>
@@ -224,9 +224,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="156">9:00-10:00 am</td>
-<td width="173">Yang-Hui He (London Institute for Mathematical Sciences)</td>
-<td width="391"><strong>Title:</strong> AI for Mathematics</p>
-<p><strong>Abstract:</strong> We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine-learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory.</td>
+<td width="173">Hao Wu (Zhejiang U) and Kefeng Liu (UCLA)</td>
+<td width="391"><strong>Title:</strong> Frobenius algebra structure of statistical manifold</p>
+<p><strong>Abstract:</strong> In information geometry, a statistical manifold is a Riemannian manifold (M,g) equipped with a totally symmetric (0,3)-tensor. We show that the tangent bundle of a statistical manifold has a Frobenius algebra structure if and only if the sectional K-curvature vanishes. This gives a statistical-geometric curvature interpretation for WDVV equation and thus solving for constant sectional K-curvature becomes a natural generalization of the WDVV equation. We also study natural statistical structures on the tangent bundle of a statistical manifold and gave a new proof of Alekseevsky-Cortes' geometric construction of r-maps that associates a special real manifold to a special Kahler manifold.</td>
 </tr>
 <tr>
 <td width="156">10:00-10:10 am</td>
