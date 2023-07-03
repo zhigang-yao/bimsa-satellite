@@ -269,8 +269,9 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 <tr>
 <td width="156">3:00-4:00 pm</td>
 <td width="173">Ke Ye (UCAS)  </td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA </td>
+<td width="391"><strong>Title:</strong> Distance between positive semidefinite matrices and beyond</p>
+<p><strong>Abstract:</strong> Positive semidefinite (PSD) matrices are important structured matrices in many applications. Examples include the covariance matrix of a random variable, the density matrix of a quantum system, the kernel matrix in machine learning and the representation of a quadratic Mahalanobis distance metric. Thus there are numerous measurements proposed in the literature to compare the similarity between two PSD matrices. However, all of them require the two PSD matrices to be of the same size and same rank. In practice, however, it is inevitable to measure the difference between two non-equidimensional PSD matrices of different ranks. In this talk, we present a method to construct such a measurement which we call the geometric distance. The construction is based on the fibre bundle structure of PSD matrices and the geometric distance is easily computable in a generic case. In particular, the geometric distance can recover most commonly used distances/divergences for PSD matrices of the same rank. We also discuss both theoretical and computational properties of the geometric distance. If times permits, we also briefly discuss an application of the geometric distance in objective selection for cancer treatment. 
+ </td>
 </tr>
 <tr>
 <td width="156">4:00-4:10 pm</td>
