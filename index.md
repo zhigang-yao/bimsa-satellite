@@ -146,7 +146,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">9:00-10:00 am</td>
 <td width="181">Ezra Miller (Duke)</td>
-<td width="391"><strong>Title:</strong> TBA </td>
+ <td width="391"><strong>Title:</strong> TBA </p>
+<p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
 <td width="148">10:00-10:10 am</td>
