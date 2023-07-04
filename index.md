@@ -155,8 +155,8 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">10:10-11:10 am</td>
 <td width="181">Scott Edwards (Harvard)</td>
-<td width="391"><strong>Title:</strong> TBA</a></td>
-</tr>
+<td width="391"><strong>Title:</strong> Using phylogenies to connect genomic and phenotypic variation</a></td>
+<p><strong>Abstract:</strong> TBA </td>
 <tr>
 <td width="148">11:10-11:20 am</td>
 <td colspan="2" width="572">Break</td>
