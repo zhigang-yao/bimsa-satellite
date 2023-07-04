@@ -115,7 +115,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="158">3:00-4:00 pm</td>
 <td width="172">Jun Zhang (Michigan)</td>
-<td width="391"><strong>Title:</strong> TBA/p>
+<td width="391"><strong>Title:</strong> TBA </p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
