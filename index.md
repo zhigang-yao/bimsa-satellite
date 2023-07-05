@@ -193,8 +193,14 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">3:00-4:00 pm</td>
 <td width="181">Yongdai Kim (SNU)</td>
-<td width="391"><strong>Title: </strong>TBA</p>
-<p><strong>Abstract:</strong> TBA</td>
+<td width="391"><strong>Title: </strong>On the use of the beta-VAE for learning probabilistic generative models</p>
+<p><strong>Abstract:</strong>Probabilistic generative models have recieved much attention
+in AI, and various learning algorithms such as GAN (Generative Adversarial Networks),
+VAE (Variational Auto-Encoder) and diffusion models have been proposed. In this talk.
+I consider the VAE algorithm based on the binomial likelihood. I derive the convergence rate of
+the corresponding estimator under regularity conditions. An interesting message obtained 
+from the convergence rate is that the beta-VAE, a variation of the original VAE, would be more
+appropriate for learning probabilistic generative models.</td>
 </tr>
 <tr>
 <td width="148">4:00-5:10 pm</td>
