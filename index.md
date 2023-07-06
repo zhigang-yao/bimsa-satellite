@@ -157,7 +157,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <td width="148">10:10-11:10 am</td>
 <td width="181">Scott Edwards (Harvard)</td>
 <td width="391"><strong>Title:</strong> Using phylogenies to connect genomic and phenotypic variation</p>
-<p><strong>Abstract:</strong> TBA </td>
+<p><strong>Abstract:</strong> Connecting genotype and phenotype is of ongoing interest in evolutionary biology. Comparative genomics is now allowing us to map genes for traits using phylogenetic approaches (‘PhyloG2P’), which leverage phenotypically unique lineages or convergent evolution to provide surprisingly precise mapping of loci underlying evolutionarily labile traits. An example focusing on loss of flight in birds reveals a strong role for non-coding regulatory evolution in the origin of key adaptations of birds. I will introduce two statistical models for associating rates of genome change and change in binary or continuous traits using phylogenetic trees. Such models will improve our power to detect associations between genome and phenotype evolution. Additionally, we employ ATAC-seq and high-throughput enhancer screens to sift through hundreds of potential candidate enhancers whose evolution could influence traits associated with loss of flight. </td>
 <tr>
 <td width="148">11:10-11:20 am</td>
 <td colspan="2" width="572">Break</td>
