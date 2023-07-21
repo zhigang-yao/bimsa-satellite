@@ -218,9 +218,6 @@ appropriate for learning probabilistic generative models.</td>
 <table width="720">
 <tbody>
 <tr>
-<td width="156">8:30-9:00 am</td>
-<td colspan="2" width="564">Breakfast</td>
-</tr>
 <tr>
 <td width="156"></td>
 <td colspan="2" width="564">Morning Session Chair: Zhigang Yao </td>
