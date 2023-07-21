@@ -136,9 +136,6 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <table width="720">
 <tbody>
 <tr>
-<td width="148">8:30-9:00 am</td>
-<td colspan="2" width="572">Breakfast</td>
-</tr>
 <tr>
 <td width="148"></td>
 <td colspan="2" width="572">Morning Session Chair: Zhigang Yao</td>
