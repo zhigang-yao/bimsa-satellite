@@ -59,7 +59,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158">8:45–9:00 am</td>
-<td width="172">Zhigang Yao</td>
+<td width="172">Zhigang Yao/Rongling Wu</td>
 <td width="391">Welcome Remarks</td>
 </tr>
 <tr>
