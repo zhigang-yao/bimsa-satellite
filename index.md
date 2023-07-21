@@ -55,7 +55,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tbody>
 <tr>
 <td width="158">8:30 am</td>
-<td colspan="2" width="562">Check in</td>
+<td colspan="2" width="562">Check in</td> BIMSA
 </tr>
 <tr>
 <td width="158">8:45–9:00 am</td>
