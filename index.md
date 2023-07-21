@@ -55,7 +55,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tbody>
 <tr>
 <td width="158">8:30 am</td>
-<td colspan="2" width="562">Check in</td> BIMSA
+<td colspan="2" width="562">Check in at BIMSA </td> 
 </tr>
 <tr>
 <td width="158">8:45–9:00 am</td>
@@ -64,7 +64,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="158"></td>
-<td colspan="2" width="562">Morning Session Chair: </td>
+<td colspan="2" width="562">Morning Session Chair: Ezra Miller </td>
 </tr>
 <tr>
 <td width="158">9:00–10:00 am</td>
