@@ -141,7 +141,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="572">Morning Session Chair: </td>
+<td colspan="2" width="572">Morning Session Chair: Zhigang Yao</td>
 </tr>
 <tr>
 <td width="148">9:00-10:00 am</td>
@@ -178,7 +178,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148"></td>
-<td colspan="2" width="572">Afternoon Session Chair: </td>
+<td colspan="2" width="572">Afternoon Session Chair: Stephan Huckemann </td>
 </tr>
 <tr>
 <td width="148">1:50-2:50 pm</td>
@@ -226,7 +226,7 @@ appropriate for learning probabilistic generative models.</td>
 </tr>
 <tr>
 <td width="156"></td>
-<td colspan="2" width="564">Morning Session Chair: </td>
+<td colspan="2" width="564">Morning Session Chair: Zhigang Yao </td>
 </tr>
 <tr>
 <td width="156">9:00-10:00 am</td>
@@ -261,7 +261,7 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </tr>
 <tr>
 <td width="156"></td>
-<td colspan="2" width="564">Afternoon Session Chair: </td>
+<td colspan="2" width="564">Afternoon Session Chair: Ezra Miller </td>
 </tr>
 <tr>
 <td width="156">1:50-2:50 pm</td>
