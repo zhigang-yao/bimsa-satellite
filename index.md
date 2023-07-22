@@ -259,7 +259,7 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </tr>
 <tr>
 <td width="156">1:50-2:50 pm</td>
-<td width="173">Weng Kee Wong (UCLA)</td>
+<td width="173">Xiongzhi Chen (WSU)</td>
 <td width="391"><strong>Title:</strong> TBA</td>
 </tr>
 <tr>
@@ -268,10 +268,10 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </tr>
 <tr>
 <td width="156">3:00-4:00 pm</td>
-<td width="173">Ke Ye (UCAS)  </td>
-<td width="391"><strong>Title:</strong> Distance between positive semidefinite matrices and beyond</p>
-<p><strong>Abstract:</strong> Positive semidefinite (PSD) matrices are important structured matrices in many applications. Examples include the covariance matrix of a random variable, the density matrix of a quantum system, the kernel matrix in machine learning and the representation of a quadratic Mahalanobis distance metric. Thus there are numerous measurements proposed in the literature to compare the similarity between two PSD matrices. However, all of them require the two PSD matrices to be of the same size and same rank. In practice, however, it is inevitable to measure the difference between two non-equidimensional PSD matrices of different ranks. In this talk, we present a method to construct such a measurement which we call the geometric distance. The construction is based on the fibre bundle structure of PSD matrices and the geometric distance is easily computable in a generic case. In particular, the geometric distance can recover most commonly used distances/divergences for PSD matrices of the same rank. We also discuss both theoretical and computational properties of the geometric distance. If times permits, we also briefly discuss an application of the geometric distance in objective selection for cancer treatment. 
- </td>
+<td width="173"> Stephan Huckemann (Göttingen)</td>
+<td width="391"><strong>Title:</strong> Statistical Challenges in Shape Prediction of Biomolecules</p>
+<p><strong>Abstract:</strong> The three-dimensional /higher-order structure of biomolecules determines its functionality. While assessing their primary structure is fairly easily accessible, reconstruction of the higher order structure is costly. It often requires elaborate correction of atomic clashes, frequently not fully successful. Using RNA data, we describe a purely statistical method, learning error correction, drawing power from a two-scale approach: Our microscopic scale describes single suites by dihedral angles of individual atom bonds. Here, addressing the challenge of torus principal component analysis (PCA) leads to a fundamentally new approach to PCA building on principal nested spheres by Jung et al. (2012). Based on an observed relationship with a mesoscopic scale, landmarks describing several suites, we use Fréchet means for angular shape and size-and-shape, correcting within-suite-backbone-to-backbone clashes. We validate this method by comparison to reconstructions obtained from simulations approximating biophysical chemistry and illustrate its power by the RNA example of SARS-CoV-2. This is joint work with  Benjamin Eltzner, Kanti V. Mardia and Henrik Wiechers.
+</td>
 </tr>
 <tr>
 <td width="156">4:00-4:10 pm</td>
