@@ -161,9 +161,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="148">11:20 am-12:20 pm</td>
-<td width="181">Jian Zhang (U of Kent)</td>
-<td width="391"><strong>Title:</strong> </p>
-<p><strong>Abstract:</strong> Skew normal model is often used in various scientific research fields in bioscience, business and finance studies. The skew normal distribution extends the normal distribution by including one more parameter called shape parameter, which is used to gauge the magnitude of skewness. However, the skew normal is a singular model; when the shape parameter is approaching zero, the corresponding Fisher information matrix fails to be invertible. This makes the standard maximum likelihood estimation ill-posed. The standard Bayesian information criterion may not work. Here, we address the problem by penalised likelihood estimation with penalty coefficient being determined by cross-validation. We show phase-transition behaviour of the cross-validated coefficient when the shape parameter is closing to zero. We establish a large sample theory for the penalised MLE. We evaluate the performance of the proposed method in multiple anti-cancer drug studies.</td>
+<td width="181">Xinqi Gong (Renming U)</td>
+<td width="391"><strong>Title:</strong> Geometry enhanced deep learning prediction of multibody protein interaction complex structures </p>
+<p><strong>Abstract:</strong> Improved from our dimer protein-protein docking methods, in the last several years we have designed new geometry-enhanced deep learning algorithms to predict the interface residue pair in trimer, tetramer and even bigger multibody protein complex structures. Furtherly, we assembled a holistic procedure for multibody protein interaction complex structure prediction, which can give out results from monomer sequences. Trained and tested on an experimental dataset, our procedure show promise advances and advantages.</td>
 </tr>
 <tr>
 <td width="148"></td>
