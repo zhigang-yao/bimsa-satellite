@@ -34,7 +34,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 * Stephen Yau (Tsinghua)
 * Chunming Zhang (UW Madison)
 * Jian Zhang (U of Kent)
-* Jun Zhang (Michigan)
+
 
 ## Organizing Committee
 * Rongling Wu (BIMSA)
