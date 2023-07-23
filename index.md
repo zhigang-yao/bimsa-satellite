@@ -275,16 +275,6 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </td>
 </tr>
 <tr>
-<td width="156">4:00-4:10 pm</td>
-<td colspan="2" width="564">Break</td>
-</tr>
-<tr>
-<td width="148">4:10-5:00 pm</td>
-<td width="181">Louis Christie (Cambridge)</td>
-<td width="391"><strong>Title: </strong>Estimating Maximal Symmetries of Regression Functions</p>
-<p><strong>Abstract: </strong> Often the objects we model have many symmetries and estimators that utilise these symmetries have been shown empirically and theoretically to vastly outperform those that do not. However, if an incorrect symmetry is used we introduce bias that persists asymptotically. Without a priori knowledge of suitable symmetries, we present a method to estimate the symmetries of non-parametric regression functions. Symmetry estimation is carried out using hypothesis testing for invariance strategically over the subgroup lattice of a search group G acting on the feature space. We show that the estimation of the unique maximal invariant subgroup of G generalises useful tools from linear dimension reduction to a non linear context. We demonstrate the performance of this estimator in synthetic settings and apply the methods to an application using satellite measurements of the earth's magnetic field. </td>
-</tr>
-<tr>
 <td width="156">5:10-5:20 pm</td>
 <td width="173">Zhigang Yao </td>
 <td width="391">Closing Remarks</td>
