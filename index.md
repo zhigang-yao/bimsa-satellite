@@ -259,9 +259,9 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </tr>
 <tr>
  <td width="156">1:50-2:50 pm</td>
-<td width="173">TBA </td>
-<td width="391"><strong>Title:</strong> TBA</p>
-<p><strong>Abstract:</strong> TBA </td>
+<td width="173">Stephan Huckemann (Göttingen) </td>
+<td width="391"><strong>Title:</strong> Statistical Challenges in Shape Prediction of Biomolecules</p>
+<p><strong>Abstract:</strong> The three-dimensional /higher-order structure of biomolecules determines its functionality. While assessing their primary structure is fairly easily accessible, reconstruction of the higher order structure is costly. It often requires elaborate correction of atomic clashes, frequently not fully successful. Using RNA data, we describe a purely statistical method, learning error correction, drawing power from a two-scale approach: Our microscopic scale describes single suites by dihedral angles of individual atom bonds. Here, addressing the challenge of torus principal component analysis (PCA) leads to a fundamentally new approach to PCA building on principal nested spheres by Jung et al. (2012). Based on an observed relationship with a mesoscopic scale, landmarks describing several suites, we use Fréchet means for angular shape and size-and-shape, correcting within-suite-backbone-to-backbone clashes. We validate this method by comparison to reconstructions obtained from simulations approximating biophysical chemistry and illustrate its power by the RNA example of SARS-CoV-2. This is joint work with  Benjamin Eltzner, Kanti V. Mardia and Henrik Wiechers. </td>
 </tr>
 <tr>
 <td width="156">2:50-3:00 pm</td>
@@ -269,9 +269,9 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 </tr>
 <tr>
 <td width="156">3:00-4:00 pm</td>
-<td width="173"> Stephan Huckemann (Göttingen)</td>
-<td width="391"><strong>Title:</strong> Statistical Challenges in Shape Prediction of Biomolecules</p>
-<p><strong>Abstract:</strong> The three-dimensional /higher-order structure of biomolecules determines its functionality. While assessing their primary structure is fairly easily accessible, reconstruction of the higher order structure is costly. It often requires elaborate correction of atomic clashes, frequently not fully successful. Using RNA data, we describe a purely statistical method, learning error correction, drawing power from a two-scale approach: Our microscopic scale describes single suites by dihedral angles of individual atom bonds. Here, addressing the challenge of torus principal component analysis (PCA) leads to a fundamentally new approach to PCA building on principal nested spheres by Jung et al. (2012). Based on an observed relationship with a mesoscopic scale, landmarks describing several suites, we use Fréchet means for angular shape and size-and-shape, correcting within-suite-backbone-to-backbone clashes. We validate this method by comparison to reconstructions obtained from simulations approximating biophysical chemistry and illustrate its power by the RNA example of SARS-CoV-2. This is joint work with  Benjamin Eltzner, Kanti V. Mardia and Henrik Wiechers.
+<td width="173"> Louis Christie (Cambridge)</td>
+<td width="391"><strong>Title:</strong> Estimating Maximal Symmetries of Regression Functions</p>
+<p><strong>Abstract:</strong> Often the objects we model have many symmetries and estimators that utilise these symmetries have been shown empirically and theoretically to vastly outperform those that do not. However, if an incorrect symmetry is used we introduce bias that persists asymptotically. Without a priori knowledge of suitable symmetries, we present a method to estimate the symmetries of non-parametric regression functions. Symmetry estimation is carried out using hypothesis testing for invariance strategically over the subgroup lattice of a search group G acting on the feature space. We show that the estimation of the unique maximal invariant subgroup of G generalises useful tools from linear dimension reduction to a non linear context. We demonstrate the performance of this estimator in synthetic settings and apply the methods to an application using satellite measurements of the earth's magnetic field.
 </td>
 </tr>
 <tr>
