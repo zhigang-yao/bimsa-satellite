@@ -260,7 +260,7 @@ In 1939, L. Kantorovich reformulated the optimal transport problem and used it t
 <tr>
 <td width="156">1:50-2:50 pm</td>
 <td width="173">TBA </td>
-<td width="391"><strong>Title:</strong> TBA</td>
+<td width="391"><strong>Title:</strong> TBA</p>
 <p><strong>Abstract:</strong> TBA </td>
 </tr>
 <tr>
