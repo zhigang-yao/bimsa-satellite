@@ -143,8 +143,28 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <tr>
 <td width="148">9:00-10:00 am</td>
 <td width="181">Ezra Miller (Duke)</td>
- <td width="391"><strong>Title:</strong> TBA </p>
-<p><strong>Abstract:</strong> TBA </td>
+ <td width="391"><strong>Title:</strong> Geometry of measures on stratified spaces </p>
+<p><strong>Abstract:</strong> The central limit theorem (CLT) is commonly thought of as
+occurring on the real line, or in multivariate form on a
+real vector space.  Motivated by statistical applications
+involving nonlinear data, such as angles or phylogenetic
+trees, the past twenty years have seen CLTs proved for
+Fréchet means on manifolds and on certain examples of
+singular spaces built from flat pieces glued together in
+combinatorial ways.  These CLTs reduce to the linear case
+by tangent space approximation or by gluing.  What should a
+CLT look like on general non-smooth spaces, where tangent
+spaces are not linear and no combinatorial gluing or flat
+pieces are available?  Answering this question involves
+figuring out appropriate classes of spaces and measures,
+correct analogues of Gaussian random variables, how the
+geometry of the space (think "curvature") is reflected in
+the limiting distribution, and generally how the geometry
+of sampling from measures on singular spaces behaves.  This
+talk provides an overview of these answers, concluding
+with gateways this investigation opens to further advances
+in geometry, probability, topology, and statistics.
+Joint work with Jonathan Mattingly and Do Tran. </td>
 </tr>
 <tr>
 <td width="148">10:00-10:10 am</td>
