@@ -48,7 +48,7 @@ Register is closed.
 ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
-## Schedule (PDF (https://zhigang-yao.github.io/))
+## Schedule (<a href="https://www.bimsa.cn/">PDF</a>)
 
 <p><strong>Saturday, July 29, 2023 (Beijing Time)</strong></p>
 <table width="720">
