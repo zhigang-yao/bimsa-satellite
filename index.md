@@ -15,7 +15,7 @@ This conference is a satellite conference of the International Congress of Basic
  </p>
 
 ## Registration
-Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmpbYjD-L7FOnmHeW3HK8HJUQkNYNkVWSThVWUJIQVlOWlVVUlFZSzUwTi4u) to attend in-person.
+Register [here](Closed!) to attend in-person.
 ## Invited speakers 
 * Louis Christie (Cambridge)
 * Ke Deng (Tsinghua)
@@ -48,7 +48,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06F
 ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
-## Schedule
+## Schedule (PDF (https://zhigang-yao.github.io/))
 
 <p><strong>Saturday, July 29, 2023 (Beijing Time)</strong></p>
 <table width="720">
