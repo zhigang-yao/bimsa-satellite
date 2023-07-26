@@ -15,7 +15,7 @@ This conference is a satellite conference of the International Congress of Basic
  </p>
 
 ## Registration
-Register [here](Closed!) to attend in-person.
+Register is closed.
 ## Invited speakers 
 * Louis Christie (Cambridge)
 * Ke Deng (Tsinghua)
