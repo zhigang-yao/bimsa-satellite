@@ -14,8 +14,10 @@ The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake
 This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 16 - 28, 2023.
  </p>
 
-## Registration
+## Registration (<a href="https://zhigang-yao.github.io/group.jpg">Group photo</a>)
+
 Register is closed.
+
 ## Invited speakers 
 * Louis Christie (Cambridge)
 * Ke Deng (Tsinghua)
